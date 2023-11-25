@@ -40,6 +40,7 @@ $ UPDATE_SNAPSHOT=1 yarn test
 
 ## Contract Sizing
 
-```sh
+```s#h
 $ yarn size-contracts
 ```
+blockchains/binance/assets/AERGO-46B/logo.png
